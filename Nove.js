@@ -1,2 +1,3 @@
-// import {NativeModules} from 'react-native';
-// export const {Nove} = NativeModules;
+import {NativeModules} from 'react-native';
+const {Nove} = NativeModules;
+export default Nove;
